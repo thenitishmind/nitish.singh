@@ -11,7 +11,7 @@ export const personalInfo = {
   phone: '+91 9318315030',
   location: 'Gurugram, India',
   github: 'https://github.com/thenitishmind',
-  linkedin: 'https://linkedin.com/in/nitish-singh',
+  linkedin: 'https://www.linkedin.com/in/nitish-kumar-85a860126/',
   leetcode: 'https://leetcode.com/u/Itsnitishsingh/',
   resume: '/resume.pdf',
   title: 'Full-Stack Developer | Cloud Enthusiast',
