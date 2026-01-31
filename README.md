@@ -105,7 +105,7 @@ Professional portfolio for **Nitish Singh** - Data Analyst & Full-Stack Develope
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/thenitishmind/nitish-singh-professional.git
+git clone [https://github.com/thenitishmind/nitish-singh-professional.git](https://github.com/thenitishmind/nitish.singh.git)
 cd nitish-singh-professional
 
 # Install dependencies
@@ -319,7 +319,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - 🌐 Portfolio: [nitishsingh.vercel.app](https://nitishsingh.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/nitish-singh](https://linkedin.com/in/nitish-singh)
 - 🐙 GitHub: [@thenitishmind](https://github.com/thenitishmind)
-- 📧 Email: imsinghnitish.09@gmail.com
 - 💻 LeetCode: [Itsnitishsingh](https://leetcode.com/u/Itsnitishsingh/)
 
 ## 🙏 Acknowledgments
