@@ -7,8 +7,8 @@ export function cn(...inputs: ClassValue[]) {
 
 export const personalInfo = {
   name: 'Nitish Singh',
-  email: 'imsinghnitish.09@gmail.com',
-  phone: '+91 9318315030',
+  email: 'imsinghnitish.9@gmail.com',
+  phone: '+91 9717113627',
   location: 'Gurugram, India',
   github: 'https://github.com/thenitishmind',
   linkedin: 'https://www.linkedin.com/in/nitish-kumar-85a860126/',
