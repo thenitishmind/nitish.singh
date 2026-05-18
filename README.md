@@ -419,8 +419,9 @@ This project is open source and available under the MIT License.
 
 ## ⭐ Show Your Support
 
-Give a ⭐️ if you like this project!
 
+Give a ⭐️ if you like this project!
+<!-- update 1 -->
 ---
 
 Made with ❤️ by Nitish Singh
